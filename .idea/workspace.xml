@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99271633-c371-4cf2-a71a-fd692c86879e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>Z:/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1946795996">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://I:/Design Patterns/7-command/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="53" column="54" lean-forward="true" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+              <folding>
+                <element signature="n#CarSimpleWashCommand#0;n#!!top" />
+                <element signature="n#CarDryCommand#0;n#!!top" />
+                <element signature="n#CarWaxCommand#0;n#!!top" />
+                <element signature="n#CarInterface#0;n#!!top" />
+                <element signature="n#PraidCar#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="I:/Design Patterns/7-command/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="Z:/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="Z:/vendor/symfony/mime" />
+      <path value="Z:/vendor/symfony/routing" />
+      <path value="Z:/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="Z:/vendor/symfony/css-selector" />
+      <path value="Z:/vendor/symfony/polyfill-iconv" />
+      <path value="Z:/vendor/symfony/event-dispatcher-contracts" />
+      <path value="Z:/vendor/symfony/polyfill-intl-idn" />
+      <path value="Z:/vendor/symfony/event-dispatcher" />
+      <path value="Z:/vendor/league/commonmark" />
+      <path value="Z:/vendor/league/commonmark-ext-table" />
+      <path value="Z:/vendor/dragonmantank/cron-expression" />
+      <path value="Z:/vendor/league/flysystem" />
+      <path value="Z:/vendor/webmozart/assert" />
+      <path value="Z:/vendor/psy/psysh" />
+      <path value="Z:/vendor/scrivo/highlight.php" />
+      <path value="Z:/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="Z:/vendor/myclabs/deep-copy" />
+      <path value="Z:/vendor/theseer/tokenizer" />
+      <path value="Z:/vendor/egulias/email-validator" />
+      <path value="Z:/vendor/mockery/mockery" />
+      <path value="Z:/vendor/monolog/monolog" />
+      <path value="Z:/vendor/fzaninotto/faker" />
+      <path value="Z:/vendor/opis/closure" />
+      <path value="Z:/vendor/fideloper/proxy" />
+      <path value="Z:/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="Z:/vendor/jakub-onderka/php-console-color" />
+      <path value="Z:/vendor/paragonie/random_compat" />
+      <path value="Z:/vendor/nikic/php-parser" />
+      <path value="Z:/vendor/facade/ignition" />
+      <path value="Z:/vendor/facade/ignition-contracts" />
+      <path value="Z:/vendor/phpoption/phpoption" />
+      <path value="Z:/vendor/facade/flare-client-php" />
+      <path value="Z:/vendor/sebastian/resource-operations" />
+      <path value="Z:/vendor/sebastian/recursion-context" />
+      <path value="Z:/vendor/sebastian/global-state" />
+      <path value="Z:/vendor/phpdocumentor/type-resolver" />
+      <path value="Z:/vendor/sebastian/diff" />
+      <path value="Z:/vendor/phpdocumentor/reflection-docblock" />
+      <path value="Z:/vendor/sebastian/exporter" />
+      <path value="Z:/vendor/phpdocumentor/reflection-common" />
+      <path value="Z:/vendor/sebastian/object-enumerator" />
+      <path value="Z:/vendor/doctrine/inflector" />
+      <path value="Z:/vendor/sebastian/environment" />
+      <path value="Z:/vendor/nunomaduro/collision" />
+      <path value="Z:/vendor/doctrine/instantiator" />
+      <path value="Z:/vendor/sebastian/comparator" />
+      <path value="Z:/vendor/doctrine/lexer" />
+      <path value="Z:/vendor/sebastian/object-reflector" />
+      <path value="Z:/vendor/sebastian/version" />
+      <path value="Z:/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="Z:/vendor/sebastian/type" />
+      <path value="Z:/vendor/phar-io/version" />
+      <path value="Z:/vendor/phar-io/manifest" />
+      <path value="Z:/vendor/composer" />
+      <path value="Z:/vendor/ramsey/uuid" />
+      <path value="Z:/vendor/phpunit/php-token-stream" />
+      <path value="Z:/vendor/phpunit/php-text-template" />
+      <path value="Z:/vendor/phpunit/php-timer" />
+      <path value="Z:/vendor/phpunit/php-file-iterator" />
+      <path value="Z:/vendor/swiftmailer/swiftmailer" />
+      <path value="Z:/vendor/phpunit/php-code-coverage" />
+      <path value="Z:/vendor/phpunit/phpunit" />
+      <path value="Z:/vendor/nesbot/carbon" />
+      <path value="Z:/vendor/laravel/framework" />
+      <path value="Z:/vendor/symfony/error-handler" />
+      <path value="Z:/vendor/laravel/tinker" />
+      <path value="Z:/vendor/phpspec/prophecy" />
+      <path value="Z:/vendor/symfony/polyfill-php73" />
+      <path value="Z:/vendor/symfony/polyfill-php72" />
+      <path value="Z:/vendor/symfony/polyfill-mbstring" />
+      <path value="Z:/vendor/symfony/http-foundation" />
+      <path value="Z:/vendor/filp/whoops" />
+      <path value="Z:/vendor/symfony/polyfill-ctype" />
+      <path value="Z:/vendor/psr/simple-cache" />
+      <path value="Z:/vendor/symfony/http-kernel" />
+      <path value="Z:/vendor/psr/container" />
+      <path value="Z:/vendor/symfony/var-dumper" />
+      <path value="Z:/vendor/hamcrest/hamcrest-php" />
+      <path value="Z:/vendor/psr/log" />
+      <path value="Z:/vendor/symfony/finder" />
+      <path value="Z:/vendor/symfony/console" />
+      <path value="Z:/vendor/symfony/translation" />
+      <path value="Z:/vendor/symfony/translation-contracts" />
+      <path value="Z:/vendor/symfony/service-contracts" />
+      <path value="Z:/vendor/vlucas/phpdotenv" />
+      <path value="Z:/vendor/symfony/debug" />
+      <path value="Z:/vendor/symfony/process" />
+      <path value="Z:/vendor/arrilot/laravel-widgets" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="1XQuxhtZXBnw7Dc2nMDzRp0aNkG" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="Z:/../DesignPatterns" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\fesco\app\Services" />
+      <recent name="C:\xampp\htdocs\fesco\resources\views\frontend\payment" />
+      <recent name="C:\xampp\htdocs\fesco\resources\views\admin\coupon" />
+      <recent name="C:\xampp\htdocs\fesco\public\js" />
+      <recent name="C:\xampp\htdocs\fesco\resources\views\frontend\reserve" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\fesco\app\Models" />
+      <recent name="C:\xampp\htdocs\fesco\app\Http\Controllers\Frontend" />
+      <recent name="C:\xampp\htdocs\fesco\public\js" />
+      <recent name="C:\xampp\htdocs\fesco\public\css" />
+      <recent name="C:\xampp\htdocs\fesco\resources\views\layouts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99271633-c371-4cf2-a71a-fd692c86879e" name="Default Changelist" comment="" />
+      <created>1580990887723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580990887723</updated>
+      <workItem from="1580990889233" duration="10675000" />
+      <workItem from="1581066361796" duration="13476000" />
+      <workItem from="1581143837690" duration="1331000" />
+      <workItem from="1581155180262" duration="4603000" />
+      <workItem from="1581250497203" duration="2600000" />
+      <workItem from="1581266599892" duration="10063000" />
+      <workItem from="1581347405567" duration="9820000" />
+      <workItem from="1581401055686" duration="23711000" />
+      <workItem from="1581486168834" duration="1067000" />
+      <workItem from="1581505055432" duration="8384000" />
+      <workItem from="1581586633971" duration="21822000" />
+      <workItem from="1581667482240" duration="4369000" />
+      <workItem from="1581675148771" duration="5732000" />
+      <workItem from="1581747553832" duration="745000" />
+      <workItem from="1581761646360" duration="5242000" />
+      <workItem from="1581827940693" duration="2036000" />
+      <workItem from="1581858206119" duration="584000" />
+      <workItem from="1581953005399" duration="7151000" />
+      <workItem from="1581999758358" duration="3650000" />
+      <workItem from="1582016507293" duration="2876000" />
+      <workItem from="1582028091985" duration="1546000" />
+      <workItem from="1582043324914" duration="9070000" />
+      <workItem from="1582094854765" duration="2470000" />
+      <workItem from="1582123830056" duration="5761000" />
+      <workItem from="1582137916643" duration="1472000" />
+      <workItem from="1582141226524" duration="8047000" />
+      <workItem from="1582195369313" duration="7264000" />
+      <workItem from="1582235066243" duration="1671000" />
+      <workItem from="1582237524446" duration="512000" />
+      <workItem from="1582238069708" duration="91000" />
+      <workItem from="1582238188416" duration="201000" />
+      <workItem from="1582282570323" duration="8606000" />
+      <workItem from="1582386207474" duration="3814000" />
+      <workItem from="1582394872970" duration="31000" />
+      <workItem from="1582394975143" duration="2324000" />
+      <workItem from="1582439062902" duration="16877000" />
+      <workItem from="1582556052579" duration="686000" />
+      <workItem from="1582523304535" duration="1196000" />
+      <workItem from="1582629109132" duration="1529000" />
+      <workItem from="1582660417064" duration="660000" />
+      <workItem from="1582703397125" duration="597000" />
+      <workItem from="1582818840473" duration="2380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2380000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10696822" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://I:/Design Patterns/7-command/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="53" column="54" lean-forward="true" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+          <folding>
+            <element signature="n#CarSimpleWashCommand#0;n#!!top" />
+            <element signature="n#CarDryCommand#0;n#!!top" />
+            <element signature="n#CarWaxCommand#0;n#!!top" />
+            <element signature="n#CarInterface#0;n#!!top" />
+            <element signature="n#PraidCar#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
